@@ -9,7 +9,7 @@
 }
   
 h1 {
-  color: rgb(33, 27, 114);
+  color: white;
 }
 
 .nav-link {
@@ -53,4 +53,12 @@ body {
 
 #sticky-footer {
   flex-shrink: none;
+}
+
+#index-content {
+  flex: 1 0 auto;
+  background-image: asset-url('hompage_photo.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
