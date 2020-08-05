@@ -48,7 +48,7 @@ body {
 
 #page-content {
   flex: 1 0 auto;
-  background-color: lightgrey;
+  background-color: lightgray;
 }
 
 #sticky-footer {
@@ -62,3 +62,24 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+// .card {
+//   background-color: cornsilk;
+// }
+
+.card-header {
+  background-color: rgb(42, 77, 42);
+  color: white;
+}
+
+.card-footer {
+  background-color: cornsilk;
+}
+
+// .form-group {
+//   background-color: yellow;
+// }
+
+// .index-row {
+//   background-color: rgb(42, 77, 42);
+// }
