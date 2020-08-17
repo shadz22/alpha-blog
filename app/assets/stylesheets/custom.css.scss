@@ -91,13 +91,13 @@ body {
     font-weight: bold;
     color:green; }
   .flickr_pagination a {
-    border: 1px solid rgb(117, 121, 117);
+    border: 1px solid rgb(255, 255, 255);
     color: black;
     text-decoration: none; }
     .flickr_pagination a:hover, .flickr_pagination a:focus {
       border-color: green;
-      background: whitesmoke;
-      color: gray; }
+      background: rgb(245, 245, 245);
+      color: rgb(128, 128, 128); }
   .flickr_pagination .page_info {
     color: #aaaaaa;
     padding-top: 0.8em; }

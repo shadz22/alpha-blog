@@ -29,7 +29,7 @@ class CategoriesControllerTest < ActionDispatch::IntegrationTest
 
   test "should not create category if not admin" do
     assert_no_difference('Category.count') do
-      post categories_url, params: { category: { name:'Travel'}}
+      post categories_url, params: { category: { name:'Travel' } }
     end
     assert_redirected_to categories_url
   end
