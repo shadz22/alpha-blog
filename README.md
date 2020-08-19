@@ -18,4 +18,13 @@
 * Deployment instructions
 
 * ...
-![](/app/assets/images/bloggers.png)
+
+---
+### Homepage
+![](/images/homepage.png)
+
+### Bloggers page
+![](/images/bloggers.png)
+
+### Sign up page
+![](/images/signup.png)
