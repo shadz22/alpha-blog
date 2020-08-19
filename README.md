@@ -23,8 +23,14 @@
 ### Homepage
 ![](/images/homepage.png)
 
+---
+
 ### Bloggers page
 ![](/images/bloggers.png)
 
+---
+
 ### Sign up page
 ![](/images/signup.png)
+
+---
