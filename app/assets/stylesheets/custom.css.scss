@@ -48,7 +48,8 @@ body {
 
 #page-content {
   flex: 1 0 auto;
-  background-color: lightgray;
+  background-color: white;
+  // background-color: rgb(241, 241, 237);
 }
 
 #sticky-footer {
@@ -68,15 +69,14 @@ body {
   color: white;
 }
 
+.card-header {
+  background-color: lightgrey;
+}
+
 .form-check {
   color: white;
   margin-left: 1em;
 }
-
-// .checkbox {
-//   text-align:center;
-//   margin: 0 0 0 20px;
-// }
 
 /* pagination styling */
 
@@ -95,7 +95,7 @@ body {
     font-weight: bold;
     color:green; }
   .flickr_pagination a {
-    border: 1px solid rgb(255, 255, 255);
+    border: 1px solid black;
     color: black;
     text-decoration: none; }
     .flickr_pagination a:hover, .flickr_pagination a:focus {
@@ -103,7 +103,7 @@ body {
       background: rgb(245, 245, 245);
       color: rgb(128, 128, 128); }
   .flickr_pagination .page_info {
-    color: #aaaaaa;
+    color: black;
     padding-top: 0.8em; }
   .flickr_pagination .previous_page, .flickr_pagination .next_page {
     border-width: 2px; }

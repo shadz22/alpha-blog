@@ -18,3 +18,4 @@
 * Deployment instructions
 
 * ...
+![Bloggers page](/images/bloggers.png)
