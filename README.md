@@ -18,4 +18,4 @@
 * Deployment instructions
 
 * ...
-![Bloggers page](/images/bloggers.png)
+![](/app/assets/images/bloggers.png)
