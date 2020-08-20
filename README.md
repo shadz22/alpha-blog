@@ -20,17 +20,32 @@
 * ...
 
 ---
-### Homepage
+<center><h2> Homepage </h2></center>
+
+
 ![](/images/homepage.png)
 
 ---
 
-### Bloggers page
+<center><h2> Bloggers page </h2></center>
+
+
 ![](/images/bloggers.png)
 
 ---
 
-### Sign up page
+## Sign up page
 ![](/images/signup.png)
 
 ---
+
+## Articles page
+![](/images/articles_index.png)
+
+---
+
+## Create New Article
+![](/images/new_article.png)
+
+---
+
